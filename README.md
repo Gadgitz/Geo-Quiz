@@ -1,0 +1,1 @@
+This is a project I worked on in my Mobilieapplications class while obtaining my Bachelors degree in computer science. All code is mine, but the basis of the code came from the lessons I was given to study.
